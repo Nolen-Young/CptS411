@@ -1,0 +1,12 @@
+Using 1 thread(s) with 4039 nodes, 600000 steps per walk, dampingVal[0.200000]: 114.481911
+Using 2 thread(s) with 4039 nodes, 600000 steps per walk, dampingVal[0.200000]: 103.174950
+Using 4 thread(s) with 4039 nodes, 600000 steps per walk, dampingVal[0.200000]: 81.391455
+Using 8 thread(s) with 4039 nodes, 600000 steps per walk, dampingVal[0.200000]: 35.027500
+Using 16 thread(s) with 4039 nodes, 600000 steps per walk, dampingVal[0.200000]: 33.531223
+Using 32 thread(s) with 4039 nodes, 600000 steps per walk, dampingVal[0.200000]: 29.676610
+Using 64 thread(s) with 4039 nodes, 600000 steps per walk, dampingVal[0.200000]: 29.491552
+Using 128 thread(s) with 4039 nodes, 600000 steps per walk, dampingVal[0.200000]: 29.049871
+Using 256 thread(s) with 4039 nodes, 600000 steps per walk, dampingVal[0.200000]: 29.086819
+Using 512 thread(s) with 4039 nodes, 600000 steps per walk, dampingVal[0.200000]: 29.302702
+Using 1024 thread(s) with 4039 nodes, 600000 steps per walk, dampingVal[0.200000]: 29.264367
+Using 2048 thread(s) with 4039 nodes, 600000 steps per walk, dampingVal[0.200000]: 28.031480
